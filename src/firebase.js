@@ -10,13 +10,13 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDTvILNK5HmtTAOD2IW0jQjn0m93ixAC_oDvc",
-  authDomain: "event-tracker-5830d.firebaseapp.com",
-  projectId: "event-tracker-5830d",
-  storageBucket: "event-tracker-5830d.appspot.com",
-  messagingSenderId: "1024149495028",
-  appId: "1:1024149495028:web:f9ee2f376f99876c0492a1",
-  measurementId: "G-YQ5SQYDFTT"
+  apiKey: "-",
+  authDomain: "-",
+  projectId: "-",
+  storageBucket: "-",
+  messagingSenderId: "-",
+  appId: "-",
+  measurementId: "-"
 };
 
 // INIT
